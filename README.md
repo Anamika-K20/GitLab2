@@ -1,2 +1,2 @@
 # GitLab2
-this is second lab.
+this is second lab. First task completed.
